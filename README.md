@@ -20,4 +20,6 @@ This will produce `mnt-22668-1.0.0.amp` file in `target` folder that can be inst
 
 ## Installation
 
-Apply the AMP package in releases to your Alfresco Repository deployment.
+Apply the AMP package in releases to your Alfresco Repository deployment:
+
+https://github.com/aborroy/mnt-22668/releases/tag/1.0.0
